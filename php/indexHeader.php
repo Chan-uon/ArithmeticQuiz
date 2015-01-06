@@ -1,0 +1,1 @@
+<?php		echo "		<header>			<img src=\"images/math_banner.png\" alt=\"Math Banner\">		</header>		";?>

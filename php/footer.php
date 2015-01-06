@@ -1,0 +1,1 @@
+<?php		echo "		<footer> 				<p>&#0169; 2014 Channy Uon</p>		</footer>		";?>
